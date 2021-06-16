@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-16T15:51:04 BST" name="Suite" finished-at="2021-06-16T15:53:13 BST" duration-ms="129669">
+    <groups>
+    </groups>
+    <test started-at="2021-06-16T15:51:04 BST" name="Test" finished-at="2021-06-16T15:53:13 BST" duration-ms="129669">
+      <class name="com.next.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:04 BST" name="setup" finished-at="2021-06-16T15:51:22 BST" duration-ms="18037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logotest()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:22 BST" name="Logotest" finished-at="2021-06-16T15:51:22 BST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logotest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:22 BST" name="Teardown" finished-at="2021-06-16T15:51:22 BST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:22 BST" name="setup" finished-at="2021-06-16T15:51:30 BST" duration-ms="8222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MyAccountLinkClickTest()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:30 BST" name="MyAccountLinkClickTest" finished-at="2021-06-16T15:51:37 BST" duration-ms="6493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAccountLinkClickTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:37 BST" name="Teardown" finished-at="2021-06-16T15:51:41 BST" duration-ms="3728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:41 BST" name="setup" finished-at="2021-06-16T15:51:49 BST" duration-ms="8074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WomenmousehoverTest()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:49 BST" name="WomenmousehoverTest" finished-at="2021-06-16T15:51:53 BST" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WomenmousehoverTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:53 BST" name="Teardown" finished-at="2021-06-16T15:51:53 BST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:51:53 BST" name="setup" finished-at="2021-06-16T15:52:09 BST" duration-ms="16170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchboxTest()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:52:09 BST" name="searchboxTest" finished-at="2021-06-16T15:52:15 BST" duration-ms="5667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchboxTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.HomePageTest@f79a760]" started-at="2021-06-16T15:52:15 BST" name="Teardown" finished-at="2021-06-16T15:52:15 BST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.next.qa.testcases.HomePageTest -->
+      <class name="com.next.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:52:15 BST" name="setup" finished-at="2021-06-16T15:52:28 BST" duration-ms="12874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegisternowclickTest()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:52:28 BST" name="RegisternowclickTest" finished-at="2021-06-16T15:52:40 BST" duration-ms="12055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisternowclickTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:52:40 BST" name="Teardown" finished-at="2021-06-16T15:52:46 BST" duration-ms="5376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:52:46 BST" name="setup" finished-at="2021-06-16T15:53:01 BST" duration-ms="15526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:53:01 BST" name="loginTest" finished-at="2021-06-16T15:53:12 BST" duration-ms="11256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.next.qa.testcases.LoginPageTest@6cbcf243]" started-at="2021-06-16T15:53:12 BST" name="Teardown" finished-at="2021-06-16T15:53:13 BST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.next.qa.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

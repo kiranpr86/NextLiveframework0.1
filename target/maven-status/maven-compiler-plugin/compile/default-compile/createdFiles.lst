@@ -1,0 +1,8 @@
+com\qa\next\pages\LoginPage.class
+com\qa\next\pages\PLPPage.class
+com\qa\next\pages\PDPPage.class
+com\qa\next\pages\HomePage.class
+com\next\qa\base\Testbase.class
+com\next\qa\utils\Testutil.class
+com\next\qa\utils\Listeners.class
+com\qa\next\pages\RegisternowPage.class
